@@ -207,3 +207,4 @@ The results provide insights into human activity patterns and validate t-SNE's e
 - Investigate feature importance for activity classification
 - Explore time-series analysis of activity transitions
 - Apply clustering algorithms to discover sub-activities # Tsne_Human_Activity_Recognition
+# Tsne_Human_Activity_Recognition
